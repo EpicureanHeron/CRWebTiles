@@ -11,5 +11,5 @@
   ],
   "name": "Awesome fox pictures",
   "short_name": "Foxes",
-  "start_url": "https://app.chromeriver.com/login/sso/saml?CompanyID=umn.edu"
+  "start_url": "index.html"
 }
